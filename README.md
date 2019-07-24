@@ -4,10 +4,10 @@ This is a project in NUS Summer Workshop which topic is how to secure service in
 
 This is group member (in alphabetical order): 
 
-	-  Bi Chao ( USTC )
-	- Liu Jiayi  ( SCU )
-	- Wu Haotian ( SCU )
-	- Zhang Wenxuan ( XJTU )
+-  Bi Chao ( USTC )
+- Liu Jiayi  ( SCU )
+- Wu Haotian ( SCU )
+- Zhang Wenxuan ( XJTU )
 
 
 
